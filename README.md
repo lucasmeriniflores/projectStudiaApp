@@ -11,7 +11,7 @@ Aplicativo completo com integração com banco de dados **Supabase**, cuja propo
 
 Projeto realizado no **terceiro ano do Ensino Médio**, integrado ao **Técnico em Informática**, pela equipe:
 
-- Luccas Flores  
+- Lucas (Nevasca) Merini Flores
 - Leticia Bremen  
 - Enzo Zaffaroni  
 - Rafael Haintz

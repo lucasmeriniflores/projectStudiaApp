@@ -1,4 +1,4 @@
-# Título do Projeto
+# Aplicativo Studia
 
 ![Imagem do Projeto](./image.jpg)
 
